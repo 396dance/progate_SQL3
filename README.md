@@ -10,3 +10,4 @@
 ### 6.JOIN(1)
 ### 7.JOIN(2)
 ### 8.teamsテーブル
+### 9.LEFT JOIN
